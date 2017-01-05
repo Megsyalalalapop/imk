@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-#Aplikasi Toko Online Penjualan Makanan (PHP, MySQL, CMS Toko Lokomedia)
-Login pengguna:
+TUGAS BESAR INTERAKSI MANUSIA DAN KOMPUTER
 
-Administrator:
+#Aplikasi Pemesanan Menu (BetaMangan) (PHP dan MySQL)
 
-    Username: admin
-    Password: admin
+http://megabook.bitsmikro.org/store
 
-Semoga bermanfaat.
-
-malescoding.com
-=======
-# imk
->>>>>>> 091af27c42038f6f62ee8d8586da927f56d7eee0
